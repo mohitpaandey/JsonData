@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+{
+
+
+
+
+			"Project":[{
+
+
+
+				  "userName":"String";
+				  "projectTitle":"String";
+				  "client":"String";
+				  "projectStatus":"String";
+				  "duration":"String";
+				  "projectDetails":"String";
+				  "projectMembers":"String";
+				  "role":"String";
+				  "projectLocation":"String";
+				  "projectAt":"String";
+				  "teamSize":"String";
+				  "skills":"String";
+				  "projectURL":"String";
+
+
+
+
+
+
+						}	
+
+
+						]
+
+						}
+
+	
+

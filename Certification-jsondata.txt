@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+
+
+
+{
+		"Certification":[{
+
+			  "userName":"String";
+			  "certificationName":"String";
+			  "certificationAuthority":"String";
+			  "licenseNumber":"String";
+			  "durationFrom":"String";
+			  "durationTo":"String";
+			  "certificationURL":"String";
+
+
+
+					}
+					]
+
+					}	

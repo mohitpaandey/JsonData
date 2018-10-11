@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+{
+
+			"Result":[{
+
+
+
+				      "profileId":"String";
+				      "List<> skills":"String";
+				      "location":"String";
+				      "extra":"String";
+				      "organization":"String";
+
+
+
+
+
+		}
+		]
+		}	
+
