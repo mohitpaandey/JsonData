@@ -1,0 +1,38 @@
+
+
+
+
+
+{
+
+
+
+			"Skills":[{
+
+
+				  "iTSkills":"String";
+				  "version":"String";
+				  "level":"String";
+				  "lastUsed":"String";
+				  "userName":"String";
+
+
+
+
+				}
+
+				]
+
+[{
+				
+				  "iTSkills":"Java";
+				  "version":"1.8";
+				  "level":"8";
+				  "lastUsed":"11/10/18";
+				  "userName":"Sashi";
+
+
+
+
+				}
+				

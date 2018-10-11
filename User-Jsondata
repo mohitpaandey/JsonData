@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+{
+			
+
+
+
+
+		"User":[{
+
+
+
+		  "userEmail":"String";
+		  "userPassword":"String";
+		  "userName":"String";
+
+
+
+
+
+	}
+
+
+	]
+		[{
+
+
+			
+		  "userEmail":"Sashi@gmail.com";
+		  "userPassword":"Sashi@is@strong";
+		  "userName":"SashiSingh";
+		
+	}

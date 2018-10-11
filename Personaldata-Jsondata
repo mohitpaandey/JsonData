@@ -1,0 +1,53 @@
+
+
+
+
+
+
+
+
+{
+
+			"Personal Data":[{
+
+
+
+
+						  "userId":"String";
+						  "userName":"String";
+						  "dateOfBirth":"String";
+						  "gender":"String";
+						  "maritalStatus":"String";
+						  "permanentAddress":"String";
+						  "homeTown":"String";
+						  "pinCode":"String";
+						  "languages":"String";
+						  "age":"String";
+						  "bloodGroup":"String";
+						  "linkedinUrl":"String";
+						  "emailId":"String";
+						  "gitHubUrl":"String";
+
+			}]
+
+
+
+[{
+						"userId":"String";
+						"userName":"Sashi";
+						"dateOfBirth":"10/12/1995";
+						"gender":"male";
+						"maritalStatus":"Single";
+						"permanentAddress":"Somewhere colony,Allahabad";
+						"homeTown":"Allahabad";
+						"pinCode":"435001";
+						"languages":"English";
+						"age":"23";
+						"bloodGroup":"O+";
+						"linkedinUrl":"String";
+						"emailId":"someone@something.com";
+						"gitHubUrl":"github.com/someone/";
+
+
+		
+			}

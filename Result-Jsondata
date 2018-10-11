@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+{
+
+			"Result":[{
+
+
+
+				      "profileId":"String";
+				      "List<> skills":"String";
+				      "location":"String";
+				      "extra":"String";
+				      "organization":"String";
+
+
+
+
+
+		}
+		]
+	
+
+
+[
+					{
+					 	"profileId":"String";
+						"List<> skills":"java";
+						"location":"Delhi";
+						"extra":"3years";
+						"organization":"IBM";					
+					}]
+
+}

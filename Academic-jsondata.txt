@@ -1,0 +1,51 @@
+
+
+
+
+{
+	"Academic Details":[{
+				
+			
+					
+
+	  "userName":"String";
+	  "education":"String";
+	  "course":"String";
+	  "specialisation":"String";
+	  "universityInstitute":"String";
+	  "passingYear":"String";
+	  "gradingSystem":"String";
+	  "higherSecondary":"String";
+	  "highDuration":"String";
+	  "highLocation":"String";
+	  "seniorSecondary":"String";
+	  "senDuration":"String";
+	  "senLocation":"String";
+
+
+			}
+		]
+
+
+
+	[{
+
+
+
+
+				
+
+	  "userName":"Sashi";
+	  "education":"B-Tech";
+	  "course":"Computer Science";
+	  "specialisation":"IT";
+	  "universityInstitute":"KIIIT";
+	  "passingYear":"2018";
+	  "gradingSystem":"10";
+	  "higherSecondary":"DID";
+	  "highDuration":"2014";
+	  "highLocation":"Allahabad";
+	  "seniorSecondary":"DID";
+	  "senDuration":"2012";
+	  "senLocation":"Allahabad";
+	}
